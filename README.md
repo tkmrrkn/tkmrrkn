@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## Interests
 
-- Automation
 - AI
+- Automation
 - Backend
 - Cloud
 - Embedded Systems
